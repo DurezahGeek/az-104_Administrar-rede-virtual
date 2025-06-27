@@ -254,7 +254,7 @@ Ao criar uma VNet, você define:
 - [Criar VNet no Portal](https://learn.microsoft.com/azure/virtual-network/quick-create-portal)  
 - [Visão Geral das VNets](https://learn.microsoft.com/azure/virtual-network/virtual-networks-overview)  
 - [Segurança com NSG](https://learn.microsoft.com/azure/virtual-network/security-overview#network-security-groups)  
-- [Gerenciar NSG](https://learn.microsoft.com/azure/virtual-network/manage-network-security-groups)  
+- [Gerenciar NSG](https://learn.microsoft.com/azure/virtual-network/manage-network-security-group)  
 - [Filtrar Tráfego de Rede](https://learn.microsoft.com/azure/virtual-network/tutorial-filter-network-traffic)  
 - [Visão Geral do Azure DNS](https://learn.microsoft.com/azure/dns/dns-overview)  
 - [Introdução ao DNS no Azure](https://learn.microsoft.com/azure/dns/dns-getstarted-portal)  
